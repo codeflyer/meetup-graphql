@@ -1,0 +1,6 @@
+{
+  "series": [
+    // Add a list of entry taken from here:
+    // http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes
+  ]
+}

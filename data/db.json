@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "firstName": "Davide",
+      "lastName": "Fiorello",
+      "age": 22,
+      "id": "1508362005009"
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "The Ripper",
+      "age": 32,
+      "id": "1508362005014"
+    },
+    {
+      "firstName": "Ciccio",
+      "lastName": "Pasticcio",
+      "age": 42,
+      "id": "1508362005018"
+    }
+  ]
+}
